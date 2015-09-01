@@ -174,7 +174,7 @@ if(capId != null){
 }
 
 eval(getScriptText("INCLUDES_CUSTOM_GLOBALS"));
-=======
+
 /*------------------------------------------------------------------------------------------------------/
 | Program : INCLUDES_ACCELA_GLOBALS.js
 | Event   : N/A

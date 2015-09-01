@@ -13,7 +13,7 @@
 var INCLUDE_VERSION = "3.1.28";
 
 /*------------------------------------------------------------------------------------------------------/
-| <===========Begin Standard Include Functions (used by Action entries)
+| <====Begin Standard Include Functions (used by Action entries)
 /------------------------------------------------------------------------------------------------------*/
 
 function activateTask(wfstr) // optional process name
@@ -7401,13 +7401,13 @@ function externalLP_CA(licNum, rlpType, doPopulateRef, doPopulateTrx, itemCap) {
 	examples:
 
 	appsubmitbefore   (will validate the LP entered, if any, and cancel the event if the LP is inactive, cancelled, expired, etc.)
-	===============
+	=
 	true ^ cslbMessage = "";
 	CAELienseNumber ^ cslbMessage = externalLP_CA(CAELienseNumber,CAELienseType,false,false,null);
 	cslbMessage.length > 0 ^ cancel = true ; showMessage = true ; comment(cslbMessage)
 
 	appsubmitafter  (update all CONTRACTOR LPs on the CAP and REFERENCE with data from CSLB.  Link the CAP LPs to REFERENCE.   Pop up a message if any are inactive...)
-	==============
+	
 	true ^ 	cslbMessage = externalLP_CA(null,"CONTRACTOR",true,true,capId)
 	cslbMessage.length > 0 ^ showMessage = true ; comment(cslbMessage);
 
@@ -16635,7 +16635,7 @@ numZeropad = "0" + numZeropad;
 return numZeropad;
 } 
  
-=======
+
 /*------------------------------------------------------------------------------------------------------/
 | Program : INCLUDES_ACCELA_FUNCTIONS.js
 | Event   : N/A
@@ -16650,7 +16650,7 @@ return numZeropad;
 var INCLUDE_VERSION = "3.1.28";
 
 /*------------------------------------------------------------------------------------------------------/
-| <===========Begin Standard Include Functions (used by Action entries)
+| <====Begin Standard Include Functions (used by Action entries)
 /------------------------------------------------------------------------------------------------------*/
 
 function activateTask(wfstr) // optional process name
@@ -24038,13 +24038,13 @@ function externalLP_CA(licNum, rlpType, doPopulateRef, doPopulateTrx, itemCap) {
 	examples:
 
 	appsubmitbefore   (will validate the LP entered, if any, and cancel the event if the LP is inactive, cancelled, expired, etc.)
-	===============
+	=
 	true ^ cslbMessage = "";
 	CAELienseNumber ^ cslbMessage = externalLP_CA(CAELienseNumber,CAELienseType,false,false,null);
 	cslbMessage.length > 0 ^ cancel = true ; showMessage = true ; comment(cslbMessage)
 
 	appsubmitafter  (update all CONTRACTOR LPs on the CAP and REFERENCE with data from CSLB.  Link the CAP LPs to REFERENCE.   Pop up a message if any are inactive...)
-	==============
+	
 	true ^ 	cslbMessage = externalLP_CA(null,"CONTRACTOR",true,true,capId)
 	cslbMessage.length > 0 ^ showMessage = true ; comment(cslbMessage);
 

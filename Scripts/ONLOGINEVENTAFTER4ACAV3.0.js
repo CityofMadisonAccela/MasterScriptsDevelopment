@@ -61,7 +61,7 @@ logDebug("User Name = " + userName);
 logDebug("sysDateMMDDYYYY = " + sysDateMMDDYYYY);
 
 /*------------------------------------------------------------------------------------------------------/
-| <===========Main=Loop================>
+| <====Main=Loop==>
 |
 /-----------------------------------------------------------------------------------------------------*/
 
@@ -79,7 +79,7 @@ var isInsExpired = false;
 var isBusExpired = false;
 
 /*------------------------------------------------------------------------------------------------------/
-| <===========END=Main=Loop================>
+| <====END=Main=Loop==>
 /-----------------------------------------------------------------------------------------------------*/
 
 if (debug.indexOf("**ERROR") > 0) {
@@ -135,7 +135,7 @@ aa.env.setValue("ReturnMessage", returnMessage);
 //aa.sendEmail("noreply@cityofmadison.com", "jmoyer@cityofmadison.com", "jmoyer@cityofmadison.com", "On Login After", debug, "");
 
 /*------------------------------------------------------------------------------------------------------/
-| <===========External Functions (used by Action entries)
+| <====External Functions (used by Action entries)
 /------------------------------------------------------------------------------------------------------*/
 function hasExpiredLicense(pDateType, plicenseNbr) {
 	var vDateType;
@@ -414,7 +414,7 @@ function openUrlInNewWindow(myurl) {
 	 newurl+=myurl
 	 newurl+="\"); \r\n  //--> \r\n </SCRIPT>"
 	 comment(newurl)
-=======
+
 /*------------------------------------------------------------------------------------------------------/
 | SVN $Id: OnLoginEventAfter4ACA.js 6515 2013-03-22 18:15:38Z jeff.moyer $
 | Program : OnLoginEventAfter4ACAV7.3.js
@@ -477,7 +477,7 @@ logDebug("User Name = " + userName);
 logDebug("sysDateMMDDYYYY = " + sysDateMMDDYYYY);
 
 /*------------------------------------------------------------------------------------------------------/
-| <===========Main=Loop================>
+| <====Main=Loop==>
 |
 /-----------------------------------------------------------------------------------------------------*/
 
@@ -495,7 +495,7 @@ var isInsExpired = false;
 var isBusExpired = false;
 
 /*------------------------------------------------------------------------------------------------------/
-| <===========END=Main=Loop================>
+| <====END=Main=Loop==>
 /-----------------------------------------------------------------------------------------------------*/
 
 if (debug.indexOf("**ERROR") > 0) {
@@ -551,7 +551,7 @@ aa.env.setValue("ReturnMessage", returnMessage);
 //aa.sendEmail("noreply@cityofmadison.com", "jmoyer@cityofmadison.com", "jmoyer@cityofmadison.com", "On Login After", debug, "");
 
 /*------------------------------------------------------------------------------------------------------/
-| <===========External Functions (used by Action entries)
+| <====External Functions (used by Action entries)
 /------------------------------------------------------------------------------------------------------*/
 function hasExpiredLicense(pDateType, plicenseNbr) {
 	var vDateType;

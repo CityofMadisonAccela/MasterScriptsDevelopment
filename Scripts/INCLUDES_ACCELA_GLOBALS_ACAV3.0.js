@@ -150,7 +150,7 @@ logDebug("feeFactor = " + feeFactor);
 logDebug("houseCount = " + houseCount);
 logDebug("feesInvoicedTotal = " + feesInvoicedTotal);
 logDebug("balanceDue = " + balanceDue);
-=======
+
 /*------------------------------------------------------------------------------------------------------/
 | Program : INCLUDES_ACCELA_GLOBALS_ACA.js
 | Event   : N/A

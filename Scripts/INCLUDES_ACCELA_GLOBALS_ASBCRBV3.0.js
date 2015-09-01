@@ -315,7 +315,7 @@ if(capId != null){
 	logDebug("balanceDue = " + balanceDue);
 	if (parentCapId) { logDebug("parentCapId = " + parentCapId.getCustomID()); }
 }
-=======
+
 /*------------------------------------------------------------------------------------------------------/
 | Program : INCLUDES_ACCELA_GLOBALS_ASBCRCB.js
 | Event   : N/A

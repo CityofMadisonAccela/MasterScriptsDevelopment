@@ -62,7 +62,7 @@ logDebug("User Seq Number = " + userSeqNum);
 logDebug("sysDateMMDDYYYY = " + sysDateMMDDYYYY);
 
 /*------------------------------------------------------------------------------------------------------/
-| <===========Main=Loop================>
+| <====Main=Loop==>
 |
 /-----------------------------------------------------------------------------------------------------*/
 
@@ -84,7 +84,7 @@ var health = "jmoyer@cityofmadison.com";//"jhausbeck@publichealthmdc.com";
 var message = "";
 
 /*------------------------------------------------------------------------------------------------------/
-| <===========END=Main=Loop================>
+| <====END=Main=Loop==>
 /-----------------------------------------------------------------------------------------------------*/
 
 if (debug.indexOf("**ERROR") > 0) {
@@ -147,7 +147,7 @@ if (emailBuilding == false && emailHealth == false) {
 
 //aa.sendEmail("noreply@cityofmadison.com", "jmoyer@cityofmadison.com", "jmoyer@cityofmadison.com", "License Associated to User", debug, "");
 /*------------------------------------------------------------------------------------------------------/
-| <===========External Functions (used by Action entries)
+| <====External Functions (used by Action entries)
 /------------------------------------------------------------------------------------------------------*/
 	
 function convertStringToPhone(theString) {
@@ -304,7 +304,7 @@ function openUrlInNewWindow(myurl) {
 	 newurl+=myurl
 	 newurl+="\"); \r\n  //--> \r\n </SCRIPT>"
 	 comment(newurl)
-=======
+
 /*------------------------------------------------------------------------------------------------------/
 | SVN $Id: AddLicenseToPublicUserAfter4ACA.js 6515 2014-07-22 18:15:38Z jeff.moyer $
 | Program : AddLicenseToPublicUserAfter4ACA7.3.js
@@ -368,7 +368,7 @@ logDebug("User Seq Number = " + userSeqNum);
 logDebug("sysDateMMDDYYYY = " + sysDateMMDDYYYY);
 
 /*------------------------------------------------------------------------------------------------------/
-| <===========Main=Loop================>
+| <====Main=Loop==>
 |
 /-----------------------------------------------------------------------------------------------------*/
 
@@ -390,7 +390,7 @@ var health = "jmoyer@cityofmadison.com";//"jhausbeck@publichealthmdc.com";
 var message = "";
 
 /*------------------------------------------------------------------------------------------------------/
-| <===========END=Main=Loop================>
+| <====END=Main=Loop==>
 /-----------------------------------------------------------------------------------------------------*/
 
 if (debug.indexOf("**ERROR") > 0) {
@@ -453,7 +453,7 @@ if (emailBuilding == false && emailHealth == false) {
 
 //aa.sendEmail("noreply@cityofmadison.com", "jmoyer@cityofmadison.com", "jmoyer@cityofmadison.com", "License Associated to User", debug, "");
 /*------------------------------------------------------------------------------------------------------/
-| <===========External Functions (used by Action entries)
+| <====External Functions (used by Action entries)
 /------------------------------------------------------------------------------------------------------*/
 	
 function convertStringToPhone(theString) {
