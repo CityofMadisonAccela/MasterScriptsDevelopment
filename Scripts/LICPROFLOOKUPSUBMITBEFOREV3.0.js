@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*------------------------------------------------------------------------------------------------------/
 | Program : LicProfLookupSubmitBefore3.0.js
 | Event   : LicProfLookupSubmitBefore

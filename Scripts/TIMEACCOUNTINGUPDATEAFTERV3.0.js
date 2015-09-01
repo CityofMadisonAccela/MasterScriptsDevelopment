@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*------------------------------------------------------------------------------------------------------/
 | Program : TimeAccountingUpdateAfter3.0.js
 | Event   : TimeAccountingUpdateAfter

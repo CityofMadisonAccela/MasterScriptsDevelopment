@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*------------------------------------------------------------------------------------------------------/
 | Program : InspectionResultModifyBefore3.0.js
 | Event   : InspectionResultModifyBefore

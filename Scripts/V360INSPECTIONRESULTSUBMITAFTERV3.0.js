@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*------------------------------------------------------------------------------------------------------/
 | SVN $Id: V360InspectionResultSubmitAfterV2.0.js 1051 2007-12-18 17:58:36Z john.schomp $
 | Program : V360InspectionResultSubmitAfterV2.0.js

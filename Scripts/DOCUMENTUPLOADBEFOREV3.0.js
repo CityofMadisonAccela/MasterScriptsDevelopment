@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*------------------------------------------------------------------------------------------------------/
 | Program : DocumentUploadBefore3.0.js
 | Event   : DocumentUploadBefore

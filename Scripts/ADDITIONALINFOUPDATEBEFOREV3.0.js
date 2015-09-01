@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*------------------------------------------------------------------------------------------------------/
 | Program : AdditionalInfoUpdateBefore3.0.js
 | Event   : AdditionalInfoUpdateBefore

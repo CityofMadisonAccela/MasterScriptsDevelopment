@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*------------------------------------------------------------------------------------------------------/
 | Program : ApplicationStatusUpdateAfterV3.0.js
 | Event   : ApplicationStatusUpdateAfter

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*------------------------------------------------------------------------------------------------------/
 | Program : PaymentReceiveBefore3.0.js
 | Event   : PaymentReceiveBefore

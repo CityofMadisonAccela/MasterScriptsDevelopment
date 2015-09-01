@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*------------------------------------------------------------------------------------------------------/
 | Program : ApplicationConditionAddAfterV3.0.js
 | Event   : ApplicationConditionAddAfter

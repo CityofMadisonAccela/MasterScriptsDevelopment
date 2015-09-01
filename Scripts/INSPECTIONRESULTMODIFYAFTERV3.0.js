@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*------------------------------------------------------------------------------------------------------/
 | SVN $Id: InspectionResultModifyAfter.js 4687 2009-08-21 21:35:56Z john.schomp $
 | Program : InspectionResultModifyAfterV3.0.js

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*------------------------------------------------------------------------------------------------------/
 | SVN $Id: ReportServiceRunBefore.js 3885 2009-01-22 16:39:51Z dane.quatacker $
 | Program : ReportServiceRunBeforeV2.0.js

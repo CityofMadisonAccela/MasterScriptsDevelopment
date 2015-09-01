@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*------------------------------------------------------------------------------------------------------/
 | Program : InspectionMultipleScheduleAfter3.0.js
 | Event   : InspectionMultipleScheduleAfter

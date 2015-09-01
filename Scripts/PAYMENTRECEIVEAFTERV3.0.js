@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*------------------------------------------------------------------------------------------------------/
 | SVN $Id: PaymentReceiveAfter.js 6515 2012-03-16 18:15:38Z john.schomp $
 | Program : PaymentReceiveAfterV2.0.js

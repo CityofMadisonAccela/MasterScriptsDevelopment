@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*------------------------------------------------------------------------------------------------------/
 | Program : V360InspectionResultSubmitBeforeV3.0.js
 | Event   : V360InspectionResultSubmitBefore

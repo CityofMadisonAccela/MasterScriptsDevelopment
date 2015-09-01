@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*------------------------------------------------------------------------------------------------------/
 | Program : ApplicationConditionDeleteBefore3.0.js
 | Event   : ApplicationConditionDeleteBefore

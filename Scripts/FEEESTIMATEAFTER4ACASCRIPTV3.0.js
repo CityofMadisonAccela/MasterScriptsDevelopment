@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*------------------------------------------------------------------------------------------------------/
 | SVN $Id: FeeEstimateAfter4ACA.js 4381 2009-05-29 02:05:03Z roland.vonschoech $
 | Program : FeeEstimateAfter4ACA.V2.0.js

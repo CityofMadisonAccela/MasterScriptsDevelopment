@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*------------------------------------------------------------------------------------------------------/
 | Program : PaymentProcessingBeforev3.0.js
 | Event   : PaymentProcessingBefore

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*------------------------------------------------------------------------------------------------------/
 | SVN $Id: OnLoginEventAfter4ACA.js 6515 2013-03-22 18:15:38Z jeff.moyer $
 | Program : OnLoginEventAfter4ACAV7.3.js

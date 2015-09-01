@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*------------------------------------------------------------------------------------------------------/
 | Program : ApplicationSpecificInfoUpdateAfterV3.0.js
 | Event   : ApplicationSpecificInfoUpdateAfter

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*------------------------------------------------------------------------------------------------------/
 | SVN $Id: AddLicenseToPublicUserAfter4ACA.js 6515 2014-07-22 18:15:38Z jeff.moyer $
 | Program : AddLicenseToPublicUserAfter4ACA7.3.js

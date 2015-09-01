@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*------------------------------------------------------------------------------------------------------/
 | SVN $Id: ACALicenseProfessionalAfter.js 6515 2013-03-22 18:15:38Z jeff.moyer $
 | Program : ACALicenseProfessionalAfterV2.0.js
