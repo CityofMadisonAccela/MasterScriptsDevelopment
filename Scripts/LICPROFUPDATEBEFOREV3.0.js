@@ -302,5 +302,5 @@ if (debug.indexOf("**ERROR") > 0) {
 		if (showDebug)
 			aa.env.setValue("ScriptReturnMessage", debug);
 	}
->>>>>>> origin/master
+
 }

@@ -1138,5 +1138,5 @@ function proximityToAttribute(svc,layer,numDistance,distanceType,attributeName,a
 			
 			}
 		}
->>>>>>> origin/master
+
 	}

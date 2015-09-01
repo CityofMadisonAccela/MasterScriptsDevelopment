@@ -632,5 +632,5 @@ if(capId != null){
 	logDebug("balanceDue = " + balanceDue);
 	if (parentCapId) { logDebug("parentCapId = " + parentCapId.getCustomID()); }
 }
->>>>>>> origin/master
+
 //aa.sendMail("noreply@cityofmadison.com", "jmoyer@cityofmadison.com", "jmoyer@cityofmadison.com", "CRCBIG", debug);

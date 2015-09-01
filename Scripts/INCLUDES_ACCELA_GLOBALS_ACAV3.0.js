@@ -302,5 +302,5 @@ logDebug("feeFactor = " + feeFactor);
 logDebug("houseCount = " + houseCount);
 logDebug("feesInvoicedTotal = " + feesInvoicedTotal);
 logDebug("balanceDue = " + balanceDue);
->>>>>>> origin/master
+
 if (parentCapId) { logDebug("parentCapId = " + parentCapId.getCustomID()); }

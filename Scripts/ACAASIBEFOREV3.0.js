@@ -206,5 +206,5 @@ if (debug.indexOf("**ERROR") > 0) {
 /*------------------------------------------------------------------------------------------------------/
 | <====External Functions (used by Action entries)
 /------------------------------------------------------------------------------------------------------*/
->>>>>>> origin/master
+
 //aa.sendMail("noreply@cityofmadison.com", "jschneider@cityofmadison.com", "jschneider@cityofmadison.com", "CAB",debug);

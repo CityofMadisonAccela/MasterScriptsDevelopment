@@ -326,5 +326,5 @@ else
 	aa.env.setValue("ScriptReturnCode", "0");
 	if (showMessage) aa.env.setValue("ScriptReturnMessage", message);
 	if (showDebug) 	aa.env.setValue("ScriptReturnMessage", debug);
->>>>>>> origin/master
+
 	}

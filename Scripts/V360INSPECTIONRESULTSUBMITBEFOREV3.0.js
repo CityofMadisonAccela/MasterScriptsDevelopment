@@ -472,4 +472,4 @@ function resultObj() {
 function compareResultObj(a, b) {
 	return (a.capIdString < b.capIdString);
 }
->>>>>>> origin/master
+

@@ -610,5 +610,5 @@ function openUrlInNewWindow(myurl) {
 	 newurl+=myurl
 	 newurl+="\"); \r\n  //--> \r\n </SCRIPT>"
 	 comment(newurl)
->>>>>>> origin/master
+
 }

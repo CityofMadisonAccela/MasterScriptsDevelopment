@@ -458,5 +458,5 @@ function schedObj() {
 
 function compareSchedObj(a, b) {
 	return (a.capIdString < b.capIdString);
->>>>>>> origin/master
+
 }
